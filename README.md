@@ -11,3 +11,5 @@ Le code source est disponible et organisé comme suit:<br>
 2- interface.ui : Interface graphique de l'application écrite en XML<br>
 
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+KOUZI YAHYA : 2020-2021
